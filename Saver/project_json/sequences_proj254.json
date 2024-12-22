@@ -1,0 +1,65 @@
+{
+    "timestamp": "2024-09-04T15:27:24.824835",
+    "data": [
+        {
+            "type": "Sequence",
+            "id": 251,
+            "code": "Phoenix1"
+        },
+        {
+            "type": "Sequence",
+            "id": 255,
+            "code": "Phoenix2"
+        },
+        {
+            "type": "Sequence",
+            "id": 313,
+            "code": "Opening_Sequence"
+        },
+        {
+            "type": "Sequence",
+            "id": 316,
+            "code": "Ending_Sequence"
+        },
+        {
+            "type": "Sequence",
+            "id": 349,
+            "code": "OPN_lwj"
+        },
+        {
+            "type": "Sequence",
+            "id": 440,
+            "code": "CYR"
+        },
+        {
+            "type": "Sequence",
+            "id": 476,
+            "code": "yumi"
+        },
+        {
+            "type": "Sequence",
+            "id": 503,
+            "code": "KYM"
+        },
+        {
+            "type": "Sequence",
+            "id": 536,
+            "code": "kgu"
+        },
+        {
+            "type": "Sequence",
+            "id": 569,
+            "code": "CarChase"
+        },
+        {
+            "type": "Sequence",
+            "id": 602,
+            "code": "nuke"
+        },
+        {
+            "type": "Sequence",
+            "id": 635,
+            "code": "Winter"
+        }
+    ]
+}

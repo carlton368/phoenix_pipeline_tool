@@ -1,0 +1,17 @@
+{
+    "timestamp": "2024-09-05T11:44:49.546547",
+    "shot": [],
+    "asset": [
+        {
+            "task": {
+                "id": 7416,
+                "name": "lkd"
+            },
+            "asset_type": "Character",
+            "asset": {
+                "id": 1973,
+                "name": "Ruby"
+            }
+        }
+    ]
+}

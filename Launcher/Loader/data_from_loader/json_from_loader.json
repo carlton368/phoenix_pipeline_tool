@@ -1,0 +1,21 @@
+{
+    "email": "carlton368@gmail.com",
+    "user_id": 101,
+    "project_id": 191,
+    "project_name": "phoenix",
+    "project_resolution_width": "1920",
+    "project_resolution_height": "1080",
+    "entity_type": "Shot",
+    "task_id": 7430,
+    "version_code": "OPN_100_mm_v001",
+    "version_id": 8854,
+    "version_type": "pub",
+    "task_name": "mm",
+    "sequence_name": "OPN_100",
+    "path": "/home/rapa/phoenix_pipeline_folders/phoenix/Shots/OpeningSequence/OPN_100/mm/pub/OPN_100_mm_v001.mb",
+    "file_name": "OPN_100_mm_v001",
+    "start_frame": 1001,
+    "end_frame": 1321,
+    "duration": null,
+    "fps": "24"
+}

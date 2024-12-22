@@ -1,0 +1,35 @@
+{
+    "timestamp": "2024-09-06T12:36:17.510971",
+    "data": [
+        {
+            "type": "Shot",
+            "id": 2000,
+            "code": "CarChase_0500",
+            "sg_sequence": {
+                "id": 701,
+                "name": "CarChase",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 2001,
+            "code": "OPN_100",
+            "sg_sequence": {
+                "id": 702,
+                "name": "OpeningSequence",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 2005,
+            "code": "Forest_0100",
+            "sg_sequence": {
+                "id": 706,
+                "name": "Forest",
+                "type": "Sequence"
+            }
+        }
+    ]
+}

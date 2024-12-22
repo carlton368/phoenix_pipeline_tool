@@ -1,0 +1,323 @@
+{
+    "timestamp": "2024-09-04T15:28:35.747466",
+    "shot": [
+        {
+            "task": {
+                "id": 6441,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 1482,
+                "name": "SHOT_600"
+            },
+            "sequence": {
+                "id": 251,
+                "name": "Phoenix1"
+            }
+        },
+        {
+            "task": {
+                "id": 6462,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 1506,
+                "name": "SHOT_1200"
+            },
+            "sequence": {
+                "id": 255,
+                "name": "Phoenix2"
+            }
+        },
+        {
+            "task": {
+                "id": 6734,
+                "name": "ly"
+            },
+            "shot": {
+                "id": 1606,
+                "name": "OPN_100"
+            },
+            "sequence": {
+                "id": 313,
+                "name": "Opening_Sequence"
+            }
+        },
+        {
+            "task": {
+                "id": 6739,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 1606,
+                "name": "OPN_100"
+            },
+            "sequence": {
+                "id": 313,
+                "name": "Opening_Sequence"
+            }
+        },
+        {
+            "task": {
+                "id": 6740,
+                "name": "ly"
+            },
+            "shot": {
+                "id": 1607,
+                "name": "OPN_200"
+            },
+            "sequence": {
+                "id": 313,
+                "name": "Opening_Sequence"
+            }
+        },
+        {
+            "task": {
+                "id": 6745,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 1607,
+                "name": "OPN_200"
+            },
+            "sequence": {
+                "id": 313,
+                "name": "Opening_Sequence"
+            }
+        },
+        {
+            "task": {
+                "id": 6746,
+                "name": "ly"
+            },
+            "shot": {
+                "id": 1608,
+                "name": "OPN_300"
+            },
+            "sequence": {
+                "id": 313,
+                "name": "Opening_Sequence"
+            }
+        },
+        {
+            "task": {
+                "id": 6751,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 1608,
+                "name": "OPN_300"
+            },
+            "sequence": {
+                "id": 313,
+                "name": "Opening_Sequence"
+            }
+        },
+        {
+            "task": {
+                "id": 6752,
+                "name": "ly"
+            },
+            "shot": {
+                "id": 1609,
+                "name": "OPN_400"
+            },
+            "sequence": {
+                "id": 313,
+                "name": "Opening_Sequence"
+            }
+        },
+        {
+            "task": {
+                "id": 6757,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 1609,
+                "name": "OPN_400"
+            },
+            "sequence": {
+                "id": 313,
+                "name": "Opening_Sequence"
+            }
+        },
+        {
+            "task": {
+                "id": 6758,
+                "name": "ly"
+            },
+            "shot": {
+                "id": 1610,
+                "name": "OPN_500"
+            },
+            "sequence": {
+                "id": 313,
+                "name": "Opening_Sequence"
+            }
+        },
+        {
+            "task": {
+                "id": 6763,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 1610,
+                "name": "OPN_500"
+            },
+            "sequence": {
+                "id": 313,
+                "name": "Opening_Sequence"
+            }
+        },
+        {
+            "task": {
+                "id": 6776,
+                "name": "ly"
+            },
+            "shot": {
+                "id": 1615,
+                "name": "END_100"
+            },
+            "sequence": {
+                "id": 316,
+                "name": "Ending_Sequence"
+            }
+        },
+        {
+            "task": {
+                "id": 6780,
+                "name": "ly"
+            },
+            "shot": {
+                "id": 1616,
+                "name": "END_200"
+            },
+            "sequence": {
+                "id": 316,
+                "name": "Ending_Sequence"
+            }
+        },
+        {
+            "task": {
+                "id": 6784,
+                "name": "ly"
+            },
+            "shot": {
+                "id": 1617,
+                "name": "END_300"
+            },
+            "sequence": {
+                "id": 316,
+                "name": "Ending_Sequence"
+            }
+        },
+        {
+            "task": {
+                "id": 6943,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 1723,
+                "name": "CYR_0100"
+            },
+            "sequence": {
+                "id": 349,
+                "name": "OPN_lwj"
+            }
+        },
+        {
+            "task": {
+                "id": 7150,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 1741,
+                "name": "yumi_0100"
+            },
+            "sequence": {
+                "id": 476,
+                "name": "yumi"
+            }
+        },
+        {
+            "task": {
+                "id": 7186,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 1771,
+                "name": "KYM_0100"
+            },
+            "sequence": {
+                "id": 503,
+                "name": "KYM"
+            }
+        },
+        {
+            "task": {
+                "id": 7187,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 1688,
+                "name": "OPN_1111"
+            },
+            "sequence": {
+                "id": 349,
+                "name": "OPN_lwj"
+            }
+        },
+        {
+            "task": {
+                "id": 7239,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 1834,
+                "name": "CarChase_0200"
+            },
+            "sequence": {
+                "id": 569,
+                "name": "CarChase"
+            }
+        },
+        {
+            "task": {
+                "id": 7243,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 1869,
+                "name": "nuke_render"
+            },
+            "sequence": {
+                "id": 602,
+                "name": "nuke"
+            }
+        }
+    ],
+    "asset": [
+        {
+            "task": {
+                "id": 6886,
+                "name": "mod"
+            },
+            "asset_type": "character",
+            "asset": {
+                "id": 1756,
+                "name": "Hero_Character_Model_v001"
+            }
+        },
+        {
+            "task": {
+                "id": 6896,
+                "name": "lkd"
+            },
+            "asset_type": "Prop",
+            "asset": {
+                "id": 1760,
+                "name": "lamp"
+            }
+        }
+    ]
+}

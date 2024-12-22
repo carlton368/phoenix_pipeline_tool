@@ -1,0 +1,45 @@
+{
+    "timestamp": "2024-09-06T12:36:18.430006",
+    "data": [
+        {
+            "id": 7432,
+            "shot_id": 2000,
+            "step_name": "cmp"
+        },
+        {
+            "id": 7421,
+            "shot_id": 2001,
+            "step_name": "ani"
+        },
+        {
+            "id": 7426,
+            "shot_id": 2001,
+            "step_name": "lgt"
+        },
+        {
+            "id": 7427,
+            "shot_id": 2001,
+            "step_name": "cmp"
+        },
+        {
+            "id": 7429,
+            "shot_id": 2001,
+            "step_name": "ly"
+        },
+        {
+            "id": 7430,
+            "shot_id": 2001,
+            "step_name": "mm"
+        },
+        {
+            "id": 7437,
+            "shot_id": 2001,
+            "step_name": "cmp"
+        },
+        {
+            "id": 7436,
+            "shot_id": 2005,
+            "step_name": "cmp"
+        }
+    ]
+}

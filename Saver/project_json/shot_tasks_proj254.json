@@ -1,0 +1,305 @@
+{
+    "timestamp": "2024-09-04T15:27:37.100397",
+    "data": [
+        {
+            "id": 6422,
+            "shot_id": 1394,
+            "step_name": "mm"
+        },
+        {
+            "id": 6423,
+            "shot_id": 1394,
+            "step_name": "ani"
+        },
+        {
+            "id": 6394,
+            "shot_id": 1396,
+            "step_name": "lgt"
+        },
+        {
+            "id": 6421,
+            "shot_id": 1480,
+            "step_name": "ani"
+        },
+        {
+            "id": 6442,
+            "shot_id": 1481,
+            "step_name": "lgt"
+        },
+        {
+            "id": 6441,
+            "shot_id": 1482,
+            "step_name": "cmp"
+        },
+        {
+            "id": 6461,
+            "shot_id": 1506,
+            "step_name": "mm"
+        },
+        {
+            "id": 6462,
+            "shot_id": 1506,
+            "step_name": "cmp"
+        },
+        {
+            "id": 6463,
+            "shot_id": 1506,
+            "step_name": "lgt"
+        },
+        {
+            "id": 6734,
+            "shot_id": 1606,
+            "step_name": "ly"
+        },
+        {
+            "id": 6735,
+            "shot_id": 1606,
+            "step_name": "mm"
+        },
+        {
+            "id": 6736,
+            "shot_id": 1606,
+            "step_name": "ani"
+        },
+        {
+            "id": 6737,
+            "shot_id": 1606,
+            "step_name": "fx"
+        },
+        {
+            "id": 6738,
+            "shot_id": 1606,
+            "step_name": "lgt"
+        },
+        {
+            "id": 6739,
+            "shot_id": 1606,
+            "step_name": "cmp"
+        },
+        {
+            "id": 6740,
+            "shot_id": 1607,
+            "step_name": "ly"
+        },
+        {
+            "id": 6741,
+            "shot_id": 1607,
+            "step_name": "mm"
+        },
+        {
+            "id": 6742,
+            "shot_id": 1607,
+            "step_name": "ani"
+        },
+        {
+            "id": 6743,
+            "shot_id": 1607,
+            "step_name": "fx"
+        },
+        {
+            "id": 6744,
+            "shot_id": 1607,
+            "step_name": "lgt"
+        },
+        {
+            "id": 6745,
+            "shot_id": 1607,
+            "step_name": "cmp"
+        },
+        {
+            "id": 6746,
+            "shot_id": 1608,
+            "step_name": "ly"
+        },
+        {
+            "id": 6747,
+            "shot_id": 1608,
+            "step_name": "mm"
+        },
+        {
+            "id": 6748,
+            "shot_id": 1608,
+            "step_name": "ani"
+        },
+        {
+            "id": 6749,
+            "shot_id": 1608,
+            "step_name": "fx"
+        },
+        {
+            "id": 6750,
+            "shot_id": 1608,
+            "step_name": "lgt"
+        },
+        {
+            "id": 6751,
+            "shot_id": 1608,
+            "step_name": "cmp"
+        },
+        {
+            "id": 6752,
+            "shot_id": 1609,
+            "step_name": "ly"
+        },
+        {
+            "id": 6753,
+            "shot_id": 1609,
+            "step_name": "mm"
+        },
+        {
+            "id": 6754,
+            "shot_id": 1609,
+            "step_name": "ani"
+        },
+        {
+            "id": 6755,
+            "shot_id": 1609,
+            "step_name": "fx"
+        },
+        {
+            "id": 6756,
+            "shot_id": 1609,
+            "step_name": "lgt"
+        },
+        {
+            "id": 6757,
+            "shot_id": 1609,
+            "step_name": "cmp"
+        },
+        {
+            "id": 6758,
+            "shot_id": 1610,
+            "step_name": "ly"
+        },
+        {
+            "id": 6759,
+            "shot_id": 1610,
+            "step_name": "mm"
+        },
+        {
+            "id": 6760,
+            "shot_id": 1610,
+            "step_name": "ani"
+        },
+        {
+            "id": 6761,
+            "shot_id": 1610,
+            "step_name": "fx"
+        },
+        {
+            "id": 6762,
+            "shot_id": 1610,
+            "step_name": "lgt"
+        },
+        {
+            "id": 6763,
+            "shot_id": 1610,
+            "step_name": "cmp"
+        },
+        {
+            "id": 6776,
+            "shot_id": 1615,
+            "step_name": "ly"
+        },
+        {
+            "id": 6777,
+            "shot_id": 1615,
+            "step_name": "mm"
+        },
+        {
+            "id": 6778,
+            "shot_id": 1615,
+            "step_name": "ani"
+        },
+        {
+            "id": 6779,
+            "shot_id": 1615,
+            "step_name": "fx"
+        },
+        {
+            "id": 6780,
+            "shot_id": 1616,
+            "step_name": "ly"
+        },
+        {
+            "id": 6781,
+            "shot_id": 1616,
+            "step_name": "mm"
+        },
+        {
+            "id": 6782,
+            "shot_id": 1616,
+            "step_name": "ani"
+        },
+        {
+            "id": 6783,
+            "shot_id": 1616,
+            "step_name": "fx"
+        },
+        {
+            "id": 6784,
+            "shot_id": 1617,
+            "step_name": "ly"
+        },
+        {
+            "id": 6785,
+            "shot_id": 1617,
+            "step_name": "mm"
+        },
+        {
+            "id": 6786,
+            "shot_id": 1617,
+            "step_name": "ani"
+        },
+        {
+            "id": 6787,
+            "shot_id": 1617,
+            "step_name": "fx"
+        },
+        {
+            "id": 7187,
+            "shot_id": 1688,
+            "step_name": "cmp"
+        },
+        {
+            "id": 6943,
+            "shot_id": 1723,
+            "step_name": "cmp"
+        },
+        {
+            "id": 7150,
+            "shot_id": 1741,
+            "step_name": "cmp"
+        },
+        {
+            "id": 7378,
+            "shot_id": 1768,
+            "step_name": "ani"
+        },
+        {
+            "id": 7186,
+            "shot_id": 1771,
+            "step_name": "cmp"
+        },
+        {
+            "id": 7239,
+            "shot_id": 1834,
+            "step_name": "cmp"
+        },
+        {
+            "id": 7243,
+            "shot_id": 1869,
+            "step_name": "cmp"
+        },
+        {
+            "id": 7382,
+            "shot_id": 1966,
+            "step_name": "ly"
+        },
+        {
+            "id": 7411,
+            "shot_id": 1999,
+            "step_name": "cmp"
+        }
+    ]
+}

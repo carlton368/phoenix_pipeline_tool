@@ -1,0 +1,32 @@
+//Maya Preference 2023 (Release 1)
+//
+//
+
+optionVar -version 3;
+
+// RecentFiles
+optionVar -cat "RecentFiles"
+ -sa "RecentFilesList"
+ -sva "RecentFilesList" "/home/rapa/phoenix_pipeline_folders/phoenix/Assets/Character/Ruby/mod/pub/Ruby_mod_v004.mb"
+ -sva "RecentFilesList" "/home/rapa/phoenix_pipeline_folders/phoenix/Assets/Character/Ruby/rig/wip/Ruby_rig_v002.mb"
+ -sva "RecentFilesList" "/home/rapa/_phoenix_/env/Maya/projects/default/scenes/Ruby_lkd_v001.ma"
+ -sva "RecentFilesList" "/home/rapa/phoenix_pipeline_folders/phoenix/Assets/Character/Ruby/lkd/pub/v002/shader.ma"
+ -sva "RecentFilesList" "/home/rapa/phoenix_pipeline_folders/phoenix/Assets/Character/Ruby/lkd/wip/Ruby_lkd_v001.ma"
+ -sva "RecentFilesList" "/home/rapa/phoenix_pipeline_folders/phoenix/Shots/OpeningSequence/OPN_100/mm/wip/OPN_100_mm_v001.mb"
+ -sva "RecentFilesList" "/home/rapa/phoenix_pipeline_folders/phoenix/Shots/OpeningSequence/OPN_100/lgt/wip/ruby_lgt_v003.mb"
+ -sva "RecentFilesList" "/home/rapa/phoenix_pipeline_folders/phoenix/Shots/OpeningSequence/OPN_100/lgt/wip/Ruby_lgt_v002.mb"
+ -sva "RecentFilesList" "/home/rapa/phoenix_pipeline_folders/phoenix/Shots/OpeningSequence/OPN_100/lgt/wip/Ruby_lgt_v001.mb"
+ -sva "RecentFilesList" "/home/rapa/phoenix_pipeline_folders/phoenix/Shots/OpeningSequence/OPN_100/lgt/wip/OPN_100_lgt_v001.mb"
+ -sa "RecentFilesTypeList"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaAscii"
+ -sva "RecentFilesTypeList" "mayaAscii"
+ -sva "RecentFilesTypeList" "mayaAscii"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ ;
+

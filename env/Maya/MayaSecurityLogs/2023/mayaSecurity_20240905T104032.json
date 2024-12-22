@@ -1,0 +1,38 @@
+{
+    "desc": "Initializing SafeModeController..."
+}{
+    "file": "<b>Warning:</b> A MEL function has stopped executing because it doesn't have a body.<br>Function name: <b>DCF_updateViewportList</b><br><br>Allow: Continue with MEL command and script execution<br><br>Deny: Block MEL command and cancel script execution<br><br>Remove: Block MEL command and cancel script execution, then remove flagged MEL command from the scene<br>",
+    "function": "DCF_updateViewportList",
+    "reason": "<b>Warning:</b> A MEL function has stopped executing because it doesn't have a body.<br>Function name: <b>^1s</b><br><br>Allow: Continue with MEL command and script execution<br><br>Deny: Block MEL command and cancel script execution<br><br>Remove: Block MEL command and cancel script execution, then remove flagged MEL command from the scene<br>",
+    "choice": "remove",
+    "action": "Deny",
+    "states": "createdWhileReading;executingScriptNode"
+}{
+    "file": "<b>Warning:</b> A MEL function has stopped executing because it doesn't have a body.<br>Function name: <b>DCF_updateViewportList</b><br><br>Allow: Continue with MEL command and script execution<br><br>Deny: Block MEL command and cancel script execution<br><br>Remove: Block MEL command and cancel script execution, then remove flagged MEL command from the scene<br>",
+    "function": "DCF_updateViewportList",
+    "reason": "<b>Warning:</b> A MEL function has stopped executing because it doesn't have a body.<br>Function name: <b>^1s</b><br><br>Allow: Continue with MEL command and script execution<br><br>Deny: Block MEL command and cancel script execution<br><br>Remove: Block MEL command and cancel script execution, then remove flagged MEL command from the scene<br>",
+    "choice": "remove",
+    "action": "Deny",
+    "states": "createdWhileReading;executingScriptNode"
+}{
+    "file": "<b>Warning:</b> A MEL function has stopped executing because it doesn't have a body.<br>Function name: <b>DCF_updateViewportList</b><br><br>Allow: Continue with MEL command and script execution<br><br>Deny: Block MEL command and cancel script execution<br><br>Remove: Block MEL command and cancel script execution, then remove flagged MEL command from the scene<br>",
+    "function": "DCF_updateViewportList",
+    "reason": "<b>Warning:</b> A MEL function has stopped executing because it doesn't have a body.<br>Function name: <b>^1s</b><br><br>Allow: Continue with MEL command and script execution<br><br>Deny: Block MEL command and cancel script execution<br><br>Remove: Block MEL command and cancel script execution, then remove flagged MEL command from the scene<br>",
+    "choice": "remove",
+    "action": "Deny",
+    "states": "createdWhileReading;executingScriptNode"
+}{
+    "file": "<b>Warning:</b> A MEL function has stopped executing because it doesn't have a body.<br>Function name: <b>DCF_updateViewportList</b><br><br>Allow: Continue with MEL command and script execution<br><br>Deny: Block MEL command and cancel script execution<br><br>Remove: Block MEL command and cancel script execution, then remove flagged MEL command from the scene<br>",
+    "function": "DCF_updateViewportList",
+    "reason": "<b>Warning:</b> A MEL function has stopped executing because it doesn't have a body.<br>Function name: <b>^1s</b><br><br>Allow: Continue with MEL command and script execution<br><br>Deny: Block MEL command and cancel script execution<br><br>Remove: Block MEL command and cancel script execution, then remove flagged MEL command from the scene<br>",
+    "choice": "remove",
+    "action": "Deny",
+    "states": "createdWhileReading;executingScriptNode"
+}{
+    "file": "<b>Warning:</b> A MEL function has stopped executing because it doesn't have a body.<br>Function name: <b>CgAbBlastPanelOptChangeCallback</b><br><br>Allow: Continue with MEL command and script execution<br><br>Deny: Block MEL command and cancel script execution<br><br>Remove: Block MEL command and cancel script execution, then remove flagged MEL command from the scene<br>",
+    "function": "CgAbBlastPanelOptChangeCallback",
+    "reason": "<b>Warning:</b> A MEL function has stopped executing because it doesn't have a body.<br>Function name: <b>^1s</b><br><br>Allow: Continue with MEL command and script execution<br><br>Deny: Block MEL command and cancel script execution<br><br>Remove: Block MEL command and cancel script execution, then remove flagged MEL command from the scene<br>",
+    "choice": "remove",
+    "action": "Deny",
+    "states": "createdWhileReading;executingScriptNode"
+}

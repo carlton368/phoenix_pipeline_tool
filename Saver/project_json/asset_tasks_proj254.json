@@ -1,0 +1,95 @@
+{
+    "timestamp": "2024-09-04T15:27:06.333635",
+    "data": [
+        {
+            "id": 6788,
+            "asset_id": 1643,
+            "step_name": "mod"
+        },
+        {
+            "id": 6789,
+            "asset_id": 1644,
+            "step_name": "lkd"
+        },
+        {
+            "id": 6790,
+            "asset_id": 1645,
+            "step_name": "rig"
+        },
+        {
+            "id": 6791,
+            "asset_id": 1646,
+            "step_name": "mod"
+        },
+        {
+            "id": 6792,
+            "asset_id": 1647,
+            "step_name": "lkd"
+        },
+        {
+            "id": 6793,
+            "asset_id": 1648,
+            "step_name": "rig"
+        },
+        {
+            "id": 6885,
+            "asset_id": 1754,
+            "step_name": "lkd"
+        },
+        {
+            "id": 7240,
+            "asset_id": 1754,
+            "step_name": "mod"
+        },
+        {
+            "id": 6886,
+            "asset_id": 1756,
+            "step_name": "mod"
+        },
+        {
+            "id": 6887,
+            "asset_id": 1756,
+            "step_name": "rig"
+        },
+        {
+            "id": 6888,
+            "asset_id": 1756,
+            "step_name": "lkd"
+        },
+        {
+            "id": 6889,
+            "asset_id": 1756,
+            "step_name": "lkd"
+        },
+        {
+            "id": 6890,
+            "asset_id": 1756,
+            "step_name": "Unknown Step"
+        },
+        {
+            "id": 6891,
+            "asset_id": 1756,
+            "step_name": "Unknown Step"
+        },
+        {
+            "id": 6896,
+            "asset_id": 1760,
+            "step_name": "lkd"
+        },
+        {
+            "id": 6944,
+            "asset_id": 1761,
+            "step_name": "Unknown Step"
+        },
+        {
+            "id": 7388,
+            "asset_id": 1841,
+            "step_name": "rig"
+        },
+        {
+            "id": 7380,
+            "asset_id": 1940,
+            "step_name": "rig"
+        }
+    ]
+}

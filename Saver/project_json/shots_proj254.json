@@ -1,0 +1,369 @@
+{
+    "timestamp": "2024-09-04T15:27:25.126268",
+    "data": [
+        {
+            "type": "Shot",
+            "id": 1394,
+            "code": "SHOT_001",
+            "sg_sequence": null
+        },
+        {
+            "type": "Shot",
+            "id": 1395,
+            "code": "SHOT_002",
+            "sg_sequence": null
+        },
+        {
+            "type": "Shot",
+            "id": 1396,
+            "code": "SHOT_003",
+            "sg_sequence": null
+        },
+        {
+            "type": "Shot",
+            "id": 1477,
+            "code": "SHOT_100",
+            "sg_sequence": {
+                "id": 251,
+                "name": "Phoenix1",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1478,
+            "code": "SHOT_200",
+            "sg_sequence": {
+                "id": 251,
+                "name": "Phoenix1",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1479,
+            "code": "SHOT_300",
+            "sg_sequence": {
+                "id": 251,
+                "name": "Phoenix1",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1480,
+            "code": "SHOT_400",
+            "sg_sequence": {
+                "id": 251,
+                "name": "Phoenix1",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1481,
+            "code": "SHOT_500",
+            "sg_sequence": {
+                "id": 251,
+                "name": "Phoenix1",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1482,
+            "code": "SHOT_600",
+            "sg_sequence": {
+                "id": 251,
+                "name": "Phoenix1",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1501,
+            "code": "SHOT_700",
+            "sg_sequence": {
+                "id": 255,
+                "name": "Phoenix2",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1502,
+            "code": "SHOT_800",
+            "sg_sequence": {
+                "id": 255,
+                "name": "Phoenix2",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1503,
+            "code": "SHOT_900",
+            "sg_sequence": {
+                "id": 255,
+                "name": "Phoenix2",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1504,
+            "code": "SHOT_1000",
+            "sg_sequence": {
+                "id": 255,
+                "name": "Phoenix2",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1505,
+            "code": "SHOT_1100",
+            "sg_sequence": {
+                "id": 255,
+                "name": "Phoenix2",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1506,
+            "code": "SHOT_1200",
+            "sg_sequence": {
+                "id": 255,
+                "name": "Phoenix2",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1512,
+            "code": "test_shot",
+            "sg_sequence": {
+                "id": 251,
+                "name": "Phoenix1",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1513,
+            "code": "shot_num",
+            "sg_sequence": {
+                "id": 251,
+                "name": "Phoenix1",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1514,
+            "code": "OPN",
+            "sg_sequence": {
+                "id": 251,
+                "name": "Phoenix1",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1515,
+            "code": "OPN_100",
+            "sg_sequence": {
+                "id": 251,
+                "name": "Phoenix1",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1606,
+            "code": "OPN_100",
+            "sg_sequence": {
+                "id": 313,
+                "name": "Opening_Sequence",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1607,
+            "code": "OPN_200",
+            "sg_sequence": {
+                "id": 313,
+                "name": "Opening_Sequence",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1608,
+            "code": "OPN_300",
+            "sg_sequence": {
+                "id": 313,
+                "name": "Opening_Sequence",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1609,
+            "code": "OPN_400",
+            "sg_sequence": {
+                "id": 313,
+                "name": "Opening_Sequence",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1610,
+            "code": "OPN_500",
+            "sg_sequence": {
+                "id": 313,
+                "name": "Opening_Sequence",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1615,
+            "code": "END_100",
+            "sg_sequence": {
+                "id": 316,
+                "name": "Ending_Sequence",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1616,
+            "code": "END_200",
+            "sg_sequence": {
+                "id": 316,
+                "name": "Ending_Sequence",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1617,
+            "code": "END_300",
+            "sg_sequence": {
+                "id": 316,
+                "name": "Ending_Sequence",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1688,
+            "code": "OPN_1111",
+            "sg_sequence": {
+                "id": 349,
+                "name": "OPN_lwj",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1722,
+            "code": "CYR_0100",
+            "sg_sequence": {
+                "id": 440,
+                "name": "CYR",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1723,
+            "code": "CYR_0100",
+            "sg_sequence": {
+                "id": 349,
+                "name": "OPN_lwj",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1741,
+            "code": "yumi_0100",
+            "sg_sequence": {
+                "id": 476,
+                "name": "yumi",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1768,
+            "code": "kgu_0020",
+            "sg_sequence": {
+                "id": 536,
+                "name": "kgu",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1771,
+            "code": "KYM_0100",
+            "sg_sequence": {
+                "id": 503,
+                "name": "KYM",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1834,
+            "code": "CarChase_0200",
+            "sg_sequence": {
+                "id": 569,
+                "name": "CarChase",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1869,
+            "code": "nuke_render",
+            "sg_sequence": {
+                "id": 602,
+                "name": "nuke",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1900,
+            "code": "shot_0040",
+            "sg_sequence": null
+        },
+        {
+            "type": "Shot",
+            "id": 1966,
+            "code": "shot_0020",
+            "sg_sequence": {
+                "id": 635,
+                "name": "Winter",
+                "type": "Sequence"
+            }
+        },
+        {
+            "type": "Shot",
+            "id": 1999,
+            "code": "CarChase_0500",
+            "sg_sequence": {
+                "id": 569,
+                "name": "CarChase",
+                "type": "Sequence"
+            }
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "timestamp": "2024-09-04T15:26:59.366437",
+    "data": [
+        {
+            "type": "Asset",
+            "id": 1549,
+            "code": "asset1",
+            "sg_asset_type": "character"
+        },
+        {
+            "type": "Asset",
+            "id": 1550,
+            "code": "asset2",
+            "sg_asset_type": "character"
+        },
+        {
+            "type": "Asset",
+            "id": 1551,
+            "code": "asset3",
+            "sg_asset_type": "Prop"
+        },
+        {
+            "type": "Asset",
+            "id": 1552,
+            "code": "asset4",
+            "sg_asset_type": "Prop"
+        },
+        {
+            "type": "Asset",
+            "id": 1643,
+            "code": "Ball",
+            "sg_asset_type": "character"
+        },
+        {
+            "type": "Asset",
+            "id": 1644,
+            "code": "Weapon",
+            "sg_asset_type": "character"
+        },
+        {
+            "type": "Asset",
+            "id": 1645,
+            "code": "Beast",
+            "sg_asset_type": "character"
+        },
+        {
+            "type": "Asset",
+            "id": 1646,
+            "code": "prop1",
+            "sg_asset_type": "Prop"
+        },
+        {
+            "type": "Asset",
+            "id": 1647,
+            "code": "prop2",
+            "sg_asset_type": "Prop"
+        },
+        {
+            "type": "Asset",
+            "id": 1648,
+            "code": "prop3",
+            "sg_asset_type": "Prop"
+        },
+        {
+            "type": "Asset",
+            "id": 1736,
+            "code": "prop4",
+            "sg_asset_type": "Prop"
+        },
+        {
+            "type": "Asset",
+            "id": 1739,
+            "code": "asset3",
+            "sg_asset_type": "character"
+        },
+        {
+            "type": "Asset",
+            "id": 1754,
+            "code": "box",
+            "sg_asset_type": "Prop"
+        },
+        {
+            "type": "Asset",
+            "id": 1756,
+            "code": "Hero_Character_Model_v001",
+            "sg_asset_type": "character"
+        },
+        {
+            "type": "Asset",
+            "id": 1760,
+            "code": "lamp",
+            "sg_asset_type": "Prop"
+        },
+        {
+            "type": "Asset",
+            "id": 1761,
+            "code": "teapot",
+            "sg_asset_type": "Prop"
+        },
+        {
+            "type": "Asset",
+            "id": 1841,
+            "code": "newyork",
+            "sg_asset_type": "env"
+        },
+        {
+            "type": "Asset",
+            "id": 1846,
+            "code": "beachball",
+            "sg_asset_type": "Prop"
+        },
+        {
+            "type": "Asset",
+            "id": 1847,
+            "code": "kyle",
+            "sg_asset_type": "character"
+        },
+        {
+            "type": "Asset",
+            "id": 1940,
+            "code": "NewYork",
+            "sg_asset_type": "env"
+        },
+        {
+            "type": "Asset",
+            "id": 1943,
+            "code": "kgu",
+            "sg_asset_type": "character"
+        },
+        {
+            "type": "Asset",
+            "id": 1944,
+            "code": "default",
+            "sg_asset_type": "Prop"
+        }
+    ]
+}

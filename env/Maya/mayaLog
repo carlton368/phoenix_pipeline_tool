@@ -1,0 +1,4 @@
+Maya Message Log starting 목요일, 9월 05, 2024
+
+Error: Unable to dynamically load : libaudiofile.so
+libaudiofile.so: 동적 오브젝트 파일을 열 수 없습니다: 그런 파일이나 디렉터리가 없습니다

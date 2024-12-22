@@ -1,0 +1,179 @@
+
+    menuItem
+        -label "Outliner" 
+        -divider 0
+        -subMenu 0
+        -tearOff 0
+        -command "switchPanelToType Outliner" 
+        -optionBox 0
+        -header 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "N" 
+        -allowOptionBoxes 1
+        -postMenuCommandOnce 0
+        -enableCommandRepeat 1
+        -echoCommand 0
+        -italicized 0
+        -boldFont 0
+        -sourceType "mel" 
+        -longDivider 1
+        menuItem175;
+
+    menuItem
+        -label "Graph Editor" 
+        -divider 0
+        -subMenu 0
+        -tearOff 0
+        -command "switchPanelToType GraphEditor" 
+        -optionBox 0
+        -header 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "E" 
+        -allowOptionBoxes 1
+        -postMenuCommandOnce 0
+        -enableCommandRepeat 1
+        -echoCommand 0
+        -italicized 0
+        -boldFont 0
+        -sourceType "mel" 
+        -longDivider 1
+        menuItem176;
+
+    menuItem
+        -label "Dope Sheet" 
+        -divider 0
+        -subMenu 0
+        -tearOff 0
+        -command "switchPanelToType DopeSheet" 
+        -optionBox 0
+        -header 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "SE" 
+        -allowOptionBoxes 1
+        -postMenuCommandOnce 0
+        -enableCommandRepeat 1
+        -echoCommand 0
+        -italicized 0
+        -boldFont 0
+        -sourceType "mel" 
+        -longDivider 1
+        menuItem177;
+
+    menuItem
+        -label "Hypergraph" 
+        -divider 0
+        -subMenu 0
+        -tearOff 0
+        -command "switchPanelToType Hypergraph" 
+        -optionBox 0
+        -header 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "S" 
+        -allowOptionBoxes 1
+        -postMenuCommandOnce 0
+        -enableCommandRepeat 1
+        -echoCommand 0
+        -italicized 0
+        -boldFont 0
+        -sourceType "mel" 
+        -longDivider 1
+        menuItem178;
+
+    menuItem
+        -label "Node Editor" 
+        -divider 0
+        -subMenu 0
+        -tearOff 0
+        -command "switchPanelToType NodeEditor" 
+        -optionBox 0
+        -header 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "SW" 
+        -allowOptionBoxes 1
+        -postMenuCommandOnce 0
+        -enableCommandRepeat 1
+        -echoCommand 0
+        -italicized 0
+        -boldFont 0
+        -sourceType "mel" 
+        -longDivider 1
+        menuItem179;
+
+    menuItem
+        -label "Hypershade" 
+        -divider 0
+        -subMenu 0
+        -tearOff 0
+        -command "switchPanelToType Hypershade" 
+        -optionBox 0
+        -header 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "W" 
+        -allowOptionBoxes 1
+        -postMenuCommandOnce 0
+        -enableCommandRepeat 1
+        -echoCommand 0
+        -italicized 0
+        -boldFont 0
+        -sourceType "mel" 
+        -longDivider 1
+        menuItem180;
+
+    menuItem
+        -label "Render View" 
+        -divider 0
+        -subMenu 0
+        -tearOff 0
+        -command "switchPanelToType RenderView" 
+        -optionBox 0
+        -header 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "NW" 
+        -allowOptionBoxes 1
+        -postMenuCommandOnce 0
+        -enableCommandRepeat 1
+        -echoCommand 0
+        -italicized 0
+        -boldFont 0
+        -sourceType "mel" 
+        -longDivider 1
+        menuItem181;
+
+    menuItem
+        -label "Sets" 
+        -divider 0
+        -subMenu 0
+        -tearOff 0
+        -command "switchPanelToType SetEditor" 
+        -optionBox 0
+        -header 0
+        -enable 1
+        -visible 1
+        -data 0
+        -radialPosition "NE" 
+        -allowOptionBoxes 1
+        -postMenuCommandOnce 0
+        -enableCommandRepeat 1
+        -echoCommand 0
+        -italicized 0
+        -boldFont 0
+        -sourceType "mel" 
+        -longDivider 1
+        menuItem182;
+
+setParent -m ..;
+

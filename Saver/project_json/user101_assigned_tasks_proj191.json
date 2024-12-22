@@ -1,0 +1,62 @@
+{
+    "timestamp": "2024-09-06T12:36:25.624159",
+    "shot": [
+        {
+            "task": {
+                "id": 7427,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 2001,
+                "name": "OPN_100"
+            },
+            "sequence": {
+                "id": 702,
+                "name": "OpeningSequence"
+            }
+        },
+        {
+            "task": {
+                "id": 7432,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 2000,
+                "name": "CarChase_0500"
+            },
+            "sequence": {
+                "id": 701,
+                "name": "CarChase"
+            }
+        },
+        {
+            "task": {
+                "id": 7436,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 2005,
+                "name": "Forest_0100"
+            },
+            "sequence": {
+                "id": 706,
+                "name": "Forest"
+            }
+        },
+        {
+            "task": {
+                "id": 7437,
+                "name": "cmp"
+            },
+            "shot": {
+                "id": 2001,
+                "name": "OPN_100"
+            },
+            "sequence": {
+                "id": 702,
+                "name": "OpeningSequence"
+            }
+        }
+    ],
+    "asset": []
+}

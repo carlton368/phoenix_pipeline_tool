@@ -1,0 +1,8 @@
+from importlib import reload
+from Publisher.Maya import maya_playblast_scene_setter
+from Publisher.Maya import publish_handler
+from Publisher.Maya import maya_pub_data_manager
+reload(menu_)
+reload(publish_handler)
+reload(maya_pub_data_manager)
+reload(maya_playblast_scene_setter)

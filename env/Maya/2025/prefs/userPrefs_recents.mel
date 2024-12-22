@@ -1,0 +1,27 @@
+//Maya Preference 2025 (Release 1)
+//
+//
+
+optionVar -version 3;
+
+// RecentFiles
+optionVar -cat "RecentFiles"
+ -sa "RecentFilesList"
+ -sva "RecentFilesList" "/home/rapa/folders/Test_phoenix/Assets/Prop/box/mod/box_lkd_v007.mb"
+ -sva "RecentFilesList" "/home/rapa/folders/Test_phoenix/Assets/Prop/box/mod/END_100_ani_v002.mb"
+ -sva "RecentFilesList" "/home/rapa/_phoenix_/env/Maya/projects/default/scenes/teapot_lookdev_v001.mb"
+ -sva "RecentFilesList" "/home/rapa/_phoenix_/env/Maya/projects/default/scenes/box_lkd_v007.mb"
+ -sva "RecentFilesList" "/home/rapa/phoenix_pipeline_folders/Test_phoenix/Assets/Prop/box/lkd/pub/box_lkd_v001.mb"
+ -sva "RecentFilesList" "/home/rapa/folders/Test_phoenix/Assets/Prop/box/mod/box_mod_v001.mb"
+ -iv "RecentFilesMaxSize" 10
+ -sa "RecentFilesTypeList"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sva "RecentFilesTypeList" "mayaBinary"
+ -sa "RecentProjectsList"
+ -iv "RecentProjectsMaxSize" 10
+ ;
+

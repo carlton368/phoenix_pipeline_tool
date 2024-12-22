@@ -1,0 +1,11 @@
+{
+    "timestamp": "2024-09-06T12:36:14.518119",
+    "data": [
+        {
+            "type": "Asset",
+            "id": 1973,
+            "code": "Ruby",
+            "sg_asset_type": "Character"
+        }
+    ]
+}

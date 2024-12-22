@@ -1,0 +1,322 @@
+{
+    "timestamp": "2024-09-06T12:36:24.182481",
+    "data": [
+        {
+            "task_id": 7432,
+            "wip": {
+                "CarChase_0500_cmp_v001": {
+                    "id": 8717,
+                    "created_at": "2024-09-04T11:59:07+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_CarChase_0500_cmp_v001_thumbnail.jpg"
+                },
+                "CarChase_0500_cmp_v002": {
+                    "id": 8718,
+                    "created_at": "2024-09-04T11:59:09+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_CarChase_0500_cmp_v002_thumbnail.jpg"
+                },
+                "CarChase_0500_cmp_v003": {
+                    "id": 8779,
+                    "created_at": "2024-09-04T21:07:08+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_CarChase_0500_cmp_v003_thumbnail.jpg"
+                },
+                "CarChase_0500_cmp_v004": {
+                    "id": 8812,
+                    "created_at": "2024-09-05T09:31:32+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_CarChase_0500_cmp_v004_thumbnail.jpg"
+                },
+                "CarChase_0500_cmp_v005": {
+                    "id": 8813,
+                    "created_at": "2024-09-05T09:40:28+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_CarChase_0500_cmp_v005_thumbnail.jpg"
+                },
+                "CarChase_0500_cmp_v006": {
+                    "id": 8817,
+                    "created_at": "2024-09-05T09:50:43+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_CarChase_0500_cmp_v006_thumbnail.jpg"
+                },
+                "CarChase_0500_cmp_v007": {
+                    "id": 8886,
+                    "created_at": "2024-09-06T12:38:52+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "No Thumbnail"
+                }
+            },
+            "pub": {
+                "CarChase_0500_cmp_v001": {
+                    "id": 8688,
+                    "created_at": "2024-09-04T11:16:57+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_CarChase_0500_cmp_v001_thumbnail.jpg"
+                },
+                "CarChase_0500_cmp_v002": {
+                    "id": 8707,
+                    "created_at": "2024-09-04T11:47:35+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_CarChase_0500_cmp_v002_thumbnail.jpg"
+                },
+                "CarChase_0500_cmp_v003": {
+                    "id": 8761,
+                    "created_at": "2024-09-04T16:47:12+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_CarChase_0500_cmp_v003_thumbnail.jpg"
+                },
+                "CarChase_0500_cmp_v004": {
+                    "id": 8771,
+                    "created_at": "2024-09-04T17:19:20+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_CarChase_0500_cmp_v004_thumbnail.jpg"
+                },
+                "CarChase_0500_cmp_v005": {
+                    "id": 8778,
+                    "created_at": "2024-09-04T21:00:32+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_CarChase_0500_cmp_v005_thumbnail.jpg"
+                },
+                "CarChase_0500_cmp_v006": {
+                    "id": 8814,
+                    "created_at": "2024-09-05T09:41:30+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_CarChase_0500_cmp_v006_thumbnail.jpg"
+                },
+                "CarChase_0500_cmp_v007": {
+                    "id": 8863,
+                    "created_at": "2024-09-05T17:38:38+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_CarChase_0500_cmp_v007_thumbnail.jpg"
+                }
+            }
+        },
+        {
+            "task_id": 7421,
+            "wip": {
+                "OPN_100_ani_v001": {
+                    "id": 8700,
+                    "created_at": "2024-09-04T11:29:13+09:00",
+                    "artist": "\uc138\uc601 \uac15",
+                    "file_type": "Maya Scene",
+                    "thumbnail": "No Thumbnail"
+                },
+                "OPN_100_ani_v002": {
+                    "id": 8701,
+                    "created_at": "2024-09-04T11:29:17+09:00",
+                    "artist": "\uc138\uc601 \uac15",
+                    "file_type": "Maya Scene",
+                    "thumbnail": "No Thumbnail"
+                },
+                "OPN_100_ani_v003": {
+                    "id": 8702,
+                    "created_at": "2024-09-04T11:29:24+09:00",
+                    "artist": "\uc138\uc601 \uac15",
+                    "file_type": "Maya Scene",
+                    "thumbnail": "No Thumbnail"
+                }
+            },
+            "pub": {
+                "OPN_100_ani_v001": {
+                    "id": 8858,
+                    "created_at": "2024-09-05T14:50:13+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Maya Scene",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_OPN_100_ani_v001_thumbnail.jpg"
+                },
+                "OPN_100_ani_v002": {
+                    "id": 8861,
+                    "created_at": "2024-09-05T15:33:36+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Maya Scene",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_OPN_100_ani_v002_thumbnail.jpg"
+                },
+                "OPN_100_ani_v003": {
+                    "id": 8862,
+                    "created_at": "2024-09-05T15:36:29+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Maya Scene",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_OPN_100_ani_v003_thumbnail.jpg"
+                }
+            }
+        },
+        {
+            "task_id": 7426,
+            "wip": {
+                "OPN_100_lgt_v001": {
+                    "id": 8710,
+                    "created_at": "2024-09-04T11:50:04+09:00",
+                    "artist": "\uc720\ubbf8 \uac15",
+                    "file_type": "Maya Scene",
+                    "thumbnail": "No Thumbnail"
+                },
+                "OPN_100_lgt_v002": {
+                    "id": 8711,
+                    "created_at": "2024-09-04T11:50:14+09:00",
+                    "artist": "\uc720\ubbf8 \uac15",
+                    "file_type": "Maya Scene",
+                    "thumbnail": "No Thumbnail"
+                },
+                "OPN_100_Lgt_v001": {
+                    "id": 8855,
+                    "created_at": "2024-09-05T14:26:52+09:00",
+                    "artist": "\uc720\ubbf8 \uac15",
+                    "file_type": null,
+                    "thumbnail": "No Thumbnail"
+                }
+            },
+            "pub": {}
+        },
+        {
+            "task_id": 7427,
+            "wip": {
+                "OPN_100_cmp_v001": {
+                    "id": 8694,
+                    "created_at": "2024-09-04T11:21:50+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "No Thumbnail"
+                }
+            },
+            "pub": {}
+        },
+        {
+            "task_id": 7429,
+            "wip": {
+                "OPN_100_ly_v001": {
+                    "id": 8712,
+                    "created_at": "2024-09-04T11:50:24+09:00",
+                    "artist": "seonil hong",
+                    "file_type": "Maya Scene",
+                    "thumbnail": "No Thumbnail"
+                },
+                "OPN_100_ly_v002": {
+                    "id": 8713,
+                    "created_at": "2024-09-04T11:50:30+09:00",
+                    "artist": "seonil hong",
+                    "file_type": "Maya Scene",
+                    "thumbnail": "No Thumbnail"
+                }
+            },
+            "pub": {}
+        },
+        {
+            "task_id": 7430,
+            "wip": {
+                "OPN_100_mm_v001": {
+                    "id": 8714,
+                    "created_at": "2024-09-04T11:50:38+09:00",
+                    "artist": "\uc8fc\uc11d \ubc15",
+                    "file_type": "Maya Scene",
+                    "thumbnail": "No Thumbnail"
+                }
+            },
+            "pub": {
+                "OPN_100_mm_v001": {
+                    "id": 8854,
+                    "created_at": "2024-09-05T14:18:32+09:00",
+                    "artist": "\uc8fc\uc11d \ubc15",
+                    "file_type": "Maya Scene",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_OPN_100_mm_v001_thumbnail.jpg"
+                }
+            }
+        },
+        {
+            "task_id": 7437,
+            "wip": {},
+            "pub": {}
+        },
+        {
+            "task_id": 7436,
+            "wip": {
+                "Forest_0100_cmp_v001": {
+                    "id": 8747,
+                    "created_at": "2024-09-04T15:13:26+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "No Thumbnail"
+                },
+                "Forest_0100_cmp_v002": {
+                    "id": 8748,
+                    "created_at": "2024-09-04T15:13:31+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "No Thumbnail"
+                },
+                "Forest_0100_cmp_v003": {
+                    "id": 8780,
+                    "created_at": "2024-09-04T21:08:10+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "No Thumbnail"
+                },
+                "Forest_0100_cmp_v004": {
+                    "id": 8781,
+                    "created_at": "2024-09-04T21:08:37+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "No Thumbnail"
+                },
+                "Forest_0100_cmp_v005": {
+                    "id": 8815,
+                    "created_at": "2024-09-05T09:46:33+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "No Thumbnail"
+                },
+                "Forest_0100_cmp_v006": {
+                    "id": 8816,
+                    "created_at": "2024-09-05T09:49:57+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "No Thumbnail"
+                }
+            },
+            "pub": {
+                "Forest_0100_cmp_v001": {
+                    "id": 8743,
+                    "created_at": "2024-09-04T14:49:08+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_Forest_0100_cmp_v001_thumbnail.jpg"
+                },
+                "Forest_0100_cmp_v002": {
+                    "id": 8744,
+                    "created_at": "2024-09-04T14:52:37+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_Forest_0100_cmp_v002_thumbnail.jpg"
+                },
+                "Forest_0100_cmp_v003": {
+                    "id": 8762,
+                    "created_at": "2024-09-04T16:49:15+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_Forest_0100_cmp_v003_thumbnail.jpg"
+                },
+                "Forest_0100_cmp_v004": {
+                    "id": 8769,
+                    "created_at": "2024-09-04T17:16:44+09:00",
+                    "artist": "\uc6d0\uc9c4 \uc774",
+                    "file_type": "Nuke Script",
+                    "thumbnail": "/home/rapa/_phoenix_/Saver/thumbnail/version_Forest_0100_cmp_v004_thumbnail.jpg"
+                }
+            }
+        }
+    ]
+}

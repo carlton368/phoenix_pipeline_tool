@@ -1,0 +1,17 @@
+from importlib import reload
+import menu_
+from Publisher.Maya import publish_handler
+from Saver.Maya.SaverUIHandler import SaverUIHandler
+from Saver.Maya.data_explorer_json import DataExplorerJson
+
+reload(menu_)
+reload(publish_handler)
+reload(SaverUIHandler)
+reload(DataExplorerJson)
+
+reload(menu_)
+reload(publish_handler)
+reload(SaverUIHandler)
+reload(DataExplorerJson)
+
+print('---------------------------')
