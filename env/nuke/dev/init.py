@@ -27,31 +27,6 @@ nuke.pluginAddPath("./python")
 nuke.pluginAddPath("./lib/python3.9")
 
 
-####################씬쎼팅################################################################
-# sys.path.append("/home/rapa/_phoenix_/Launcher/Loader/LoaderSceneSettingNuke")
-# from nk_validator_advanced import NukeValidator
-
-# validator = NukeValidator()
-# validator.setup_scene()
-# print("짜잔Initial scene setting completed1.")
-# def initial_scene_setting():
-#     validator.setup_scene()
-
-# initial_setting_done = False
-
-# def onCreateCallback():
-#     global initial_setting_done
-#     if not initial_setting_done:
-#         initial_scene_setting()
-#         initial_setting_done = True
-#         print("짜잔Initial scene setting completed2.")
-#     else:
-#         print("이런Initial scene setting already done. Skipping.")
-
-# # Nuke의 onCreate 콜백에 함수 등록
-# nuke.addOnCreate(onCreateCallback)
-# print("짜잔Initial scene setting completed3.")
-
 
 import nuke
 import sys
