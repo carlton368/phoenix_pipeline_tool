@@ -80,7 +80,7 @@ Nuke 13.0+
 ### Installation
 1. Clone the repository
 ```bash
-git clone https://github.com/carlton368/phoenix-pipeline.git
+git clone https://github.com/carlton368/phoenix_pipeline_tool.git
 ```
 
 2. Install required packages
