@@ -88,6 +88,11 @@ git clone https://github.com/carlton368/phoenix_pipeline_tool.git
 pip install -r requirements.txt
 ```
 
+3. Install required packages
+```bash
+python3 phoenix_main.py 
+```
+
 ## Project Structure
 ```
 phoenix/
