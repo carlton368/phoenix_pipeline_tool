@@ -88,7 +88,13 @@ git clone https://github.com/carlton368/phoenix_pipeline_tool.git
 pip install -r requirements.txt
 ```
 
-3. Install required packages
+### HOW TO START
+1. Open your terminal and navigate to the directory:
+'''bash
+cd phoenix_pipeline_tool
+'''
+
+2. Run the following command:
 ```bash
 python3 phoenix_main.py 
 ```
