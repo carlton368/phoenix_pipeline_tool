@@ -90,11 +90,11 @@ pip install -r requirements.txt
 
 ### HOW TO START
 1. Open your terminal and navigate to the directory:
-'''bash
+```bash
 cd phoenix_pipeline_tool
-'''
+```
 
-2. Run the following command:
+3. Run the following command:
 ```bash
 python3 phoenix_main.py 
 ```
