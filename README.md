@@ -96,7 +96,7 @@ cd phoenix_pipeline_tool
 
 3. Run the following command:
 ```bash
-python3 phoenix_main.py 
+python main.py 
 ```
 
 ## Project Structure
