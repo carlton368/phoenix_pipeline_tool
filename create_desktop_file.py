@@ -102,8 +102,8 @@ if __name__ == "__main__":
     if sys.platform.startswith('linux'):
         app_name = "Phoenix"  # 애플리케이션 이름 설정
         user_home_path = os.path.expanduser('~')
-        exec_path = f"{user_home_path}/_phoenix_/phoenix_main.py"
-        icon_path = f"{user_home_path}/_phoenix_/ui/desktop_icon.png"  # 아이콘 파일 경로 설정 (필요시 수정)
+        exec_path = f"{user_home_path}/phoenix_pipeline_tool/phoenix_main.py"
+        icon_path = f"{user_home_path}/phoenix_pipeline_tool/ui/desktop_icon.png"  # 아이콘 파일 경로 설정 (필요시 수정)
         
         # .desktop 파일 생성 함수 호출
         create_desktop_file(app_name, exec_path, icon_path)
