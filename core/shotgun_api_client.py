@@ -32,7 +32,7 @@ class ShotGunAPIclient:
         
     def get_shotgun_config(self) -> Tuple[str, str, str]:    # Shotgun 설정 가져오기 메서드
         print("<ShotGunAPIclient> Shotgun 설정 가져오기 중...")
-        shotgun_url = self.config.get_value_as_str('Shotgun', 'shotgun_url')    # Shotgun URL 가져오기
+        shotgun_url = self.config.get_value_as_str('Shotgun', 'shotgun_site_url')    # Shotgun URL 가져오기
         script_name = self.config.get_value_as_str('Shotgun', 'admin_script_name')  # 스크립트 이름 가져오기
         api_key = self.config.get_value_as_str('Shotgun', 'admin_api_key')  # API 키 가져오기
         return shotgun_url, script_name, api_key    # Shotgun URL, 스크립트 이름, API 키 반환
@@ -40,17 +40,7 @@ class ShotGunAPIclient:
     def create_shotgun_api_object(self, shotgun_url: Optional[str] = None, script_name: Optional[str] = None, api_key: Optional[str] = None):   # Shotgun API 객체 생성 메서드
         """ Shotgun API 객체 생성 메서드"""
         self.sg = shotgun_api3.Shotgun(shotgun_url, script_name, api_key)   # Shotgun API 객체 생성
-
-
-    def emergency_shotgun_api_object_creation(self):   # 비상용 Shotgun API 객체 생성 메서드
-        print("<ShotGunAPIclient> Shotgun API 객체 없음. 비상 키로 다시 생성 중...")
-        try:
-            self.sg = shotgun_api3.Shotgun(self.FALLBACK_URL,self.FALLBACK_SCRIPT_NAME,self.FALLBACK_API_KEY)
-            return self.sg 
-        except Exception as e:
-            print(f"<ShotGunAPIclient> Shotgun API 객체 생성 실패: {e}")             
-        print("<ShotGunAPIclient> Shotgun API 객체 생성 완료")
-
+    
     def shotgun_api_object(self):   # Shotgun API 객체 반환 메서드
         return self.sg  # Shotgun API 객체 반환
 

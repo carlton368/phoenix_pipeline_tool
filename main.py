@@ -19,14 +19,14 @@ class MainApplication:  # Main application class
 
     def show_login(self):   #로그인 창을 띄우는 함수
         """로그인 창을 생성하고 표시. 로그인 성공 시그널을 on_login_success 메서드에 연결합니다."""
-        self.login_window = Login(self.shotgun_client)  #로그인 창 생성 자세한 설명: Login 클래스 생성자에 ShotGunAPIclient 객체를 전달
-        # 여기서 login_success 시그널을 연결..!!!!!!! 로그인이 성공하면 login_success 시그널이 발생하고, email을 on_login_success 메서드에 전달합니다!!!!!!!!!!!핵심!!!!!!!!
+        self.login_window = Login(self.shotgun_client)  #로그인 창 생성: Login 클래스 생성자에 ShotGunAPIclient 객체를 전달
+        # login_success 시그널을 연결. 로그인이 성공하면 login_success 시그널이 발생하고, email을 on_login_success 메서드에 전달합니다(important)
         self.login_window.login_success.connect(self.on_login_success)  #로그인 성공 시 on_login_success 함수 실행
         self.login_window.show()    #로그인 창 띄우기
 
-    def on_login_success(self, email):  #로그인 성공 시, 로더 창을 띄우는 함수
+    def on_login_success(self, email):
         """로그인 성공 시 호출되는 메서드, 로그인 창을 닫고 로더 창을 표시"""
-        print(f"로그인 성공: {email}")  #로그인 성공 시 이메일 출력
+        print(f"LOGIN SUCCESS : WELCOME! {email}")  #로그인 성공 시 이메일 출력
         self.login_window.close()   #로그인 창 닫기
         self.show_loader(email) #로더 창 띄우기
 
@@ -34,7 +34,7 @@ class MainApplication:  # Main application class
         """로더 창을 생성하고 표시, 이메일과 Shotgun 클라이언트를 전달"""
         self.loader_window = MainWindow(email=email, shotgun_client=self.shotgun_client)    #로더 창 생성
         self.loader_window.show()   #로더 창 띄우기
-
+    
 if __name__ == "__main__":
     """애플리케이션이 종료되면 시스템 종료 코드"""
     main_app = MainApplication()    #MainApplication 클래스 생성
