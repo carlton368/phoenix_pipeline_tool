@@ -101,7 +101,7 @@ python main.py
 
 ## Project Structure
 ```
-phoenix/
+phoenix_pipeline_tool/
 ├── core/               # Core functionality
 ├── phoenix_main/       # Main application logic
 ├── ui/                 # UI components
@@ -131,8 +131,8 @@ phoenix/
 |--------|-------------|---------------------------------------------
 | Seyoung Kang   | Team Leader      | [@kangseyoung](https://github.com/kangseyoung)
 | Yumi Kang   | Film Major (VP Operator)      | [@yumai054](https://github.com/yumai054)
-| Gyeoul Kim   | Digital Media Major (3D Rigger)      | 
-| Sunjin Yun   | Industrial Design Major      | 
+| Gyeoul Kim   | Digital Media Major (3D Rigger)      |
+| Sunjin Yun   | Industrial Design Major      | [@gkdlfn1996](https://github.com/gkdlfn1996)
 | Wonjin Lee   | Film Major      | [@carlton368](https://github.com/carlton368)
 
 
