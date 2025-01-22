@@ -8,8 +8,8 @@ class ConfigManager:
     base_path = None 
     cache_path = None
     user_home_path = os.path.expanduser('~')    # 사용자 홈 경로
-    config_path = os.path.join(f'{user_home_path}/_phoenix_/Launcher/Loader', 'loader_config.ini')  # 설정 파일 경로
-    alternative_config_path = os.path.join(os.path.dirname(__file__), 'loader_config.ini')    # 대체 설정 파일 경로
+    config_path = os.path.join(user_home_path,'phoenix_pipeline_tool','core', 'core_config.ini')  # 설정 파일 경로
+    alternative_config_path = os.path.join(os.path.dirname(__file__), 'core_config.ini')    # 대체 설정 파일 경로
     
     def __new__(cls) -> 'ConfigManager':   # init 전에 호출되는 클래스 메소드! self가 아니라 cls를 인자로 받는다.
         """ <싱글톤 디자인 패턴> 클래스 자신의 인스턴스가 하나만 존재하도록 _instance가 None일 때만 인스턴스 생성"""
@@ -49,12 +49,12 @@ class ConfigManager:
     def _set_base_path(self):   
         self.base_path = self.get_value_as_str('Paths', 'base_path', fallback='')
         if not self.base_path:  
-            self.base_path = os.path.join(self.user_home_path, '_phoenix_')
+            self.base_path = os.path.join(self.user_home_path, 'phoenix_pipeline_tool')
         
     def _set_cache_path(self):
         self.cache_path = self.get_value_as_str('Paths', 'cache_dir', fallback='')
         if not os.path.exists(self.cache_path):
-            self.cache_path = os.path.join(self.user_home_path,'_phoenix_','Launcher', 'Loader', 'data_from_loader')
+            self.cache_path = os.path.join(self.user_home_path,'phoenix_pipeline_tool','core', 'core_config.ini')
         print(f'self.cache_path는 {self.cache_path}')
         
     def get_base_path(self) -> str:

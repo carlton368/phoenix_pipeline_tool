@@ -7,9 +7,6 @@ class ShotGunAPIclient:
     싱글톤 디자인 패턴을 사용하여 인스턴스가 하나만 생성되도록 함. import한 shotgun_api3d의 Shotgun 클래스를 사용하여 Shotgun 서버와 통신
     sg는 shotgun_api3.Shotgun 클래스의 인스턴스로 한 번만 생성되며, 이후에 ShotGunAPIclient 클래스를 인스턴싱 시에도 동일한 객체를 반환
     """
-    FALLBACK_URL = 'https://4thacademy.shotgrid.autodesk.com',
-    FALLBACK_SCRIPT_NAME = 'wonjinLEE',
-    FALLBACK_API_KEY = 'a7dHrocwtavnfoupawlmavw@n'
 
     _instance = None
     sg = None
@@ -42,12 +39,8 @@ class ShotGunAPIclient:
 
     def create_shotgun_api_object(self, shotgun_url: Optional[str] = None, script_name: Optional[str] = None, api_key: Optional[str] = None):   # Shotgun API 객체 생성 메서드
         """ Shotgun API 객체 생성 메서드"""
-        try:
-            self.sg = shotgun_api3.Shotgun(shotgun_url, script_name, api_key)   # Shotgun API 객체 생성
-            print("<ShotGunAPIclient> Shotgun API 객체 생성 완료")
-        except Exception as e:
-            print(f"<ShotGunAPIclient> Shotgun API 객체 생성 실패: {e}")
-            self.sg = None  # Shotgun API 객체 생성 실패 시 None으로 설정
+        self.sg = shotgun_api3.Shotgun(shotgun_url, script_name, api_key)   # Shotgun API 객체 생성
+
 
     def emergency_shotgun_api_object_creation(self):   # 비상용 Shotgun API 객체 생성 메서드
         print("<ShotGunAPIclient> Shotgun API 객체 없음. 비상 키로 다시 생성 중...")
