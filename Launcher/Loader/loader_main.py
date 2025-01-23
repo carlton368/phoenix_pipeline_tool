@@ -29,16 +29,12 @@ from PySide6.QtWidgets import QMessageBox
 import datetime
 
 
-########################################################################################################################
+
 #Shotgun Methods of Entity Operations(엔티티 작업 관련 Shotgun 메서드)
 class SGEntityoperator():
     """ ShotGun Entity Operator 클래스 """
     _instance = None
     def __new__(cls):   # init 전에 호출되는 클래스 메소드! self가 아니라 cls를 인자로 받는다.
-        """
-        <싱글톤 디자인 패턴>
-        클래스 자신의 인스턴스가 하나만 존재하도록 _instance가 None일 때만 인스턴스 생성
-        """
         if not cls._instance:   # 인스턴스가 없으면
             cls._instance = super().__new__(cls)    # 부모 클래스(object)의 __new__ 메소드 호출
             cls._instance.initialize_shotgun_api()
@@ -48,21 +44,6 @@ class SGEntityoperator():
         print("<SGEntityoperator>  Shotgun API 초기화 중...")
         self.shotgunAPIclient = ShotGunAPIclient()   # ShotGunAPIclient 인스턴스 생성
         self.sg = self.shotgunAPIclient.shotgun_api_object()   # Shotgun API 객체 가져오기
-
-    def create_shotgun_entity(self, entity_type: str, data: Dict[str, Any]) -> Dict[str, Any]:
-        """
-        Create a new entity in Shotgun.
-        :param entity_type: The type of entity to create.
-        :param data: The data for the new entity.
-        :return: The created entity data.
-        """
-        try:
-            result = self.sg.create(entity_type, data)
-            print(f"<SGEntityoperator> Created {entity_type} entity with id {result['id']}")
-            return result
-        except Exception as e:
-            print(f"<SGEntityoperator> Failed to create {entity_type} entity: {e}")
-            return {}
 
     def read_shotgun_entity(self, entity_type: str, entity_id: int) -> Dict[str, Any]:
         """
@@ -1580,8 +1561,7 @@ if __name__ == "__main__":
     if len(sys.argv) > 1:
         email = sys.argv[1]  # 커맨드 라인에서 이메일 주소 받기(로그인 창에서 서브프로세스로 발동시 email 있음 가져옴)
     else:
-        email = "carlton368@gmail.com"  # 기본값 설정(지금은 테스트용이라 원진의 email 박아둠, 실전 때는 None이어야함)
-  # 샷그리드 API 객체 생성
+        print("NO EMAIL INPUT")  
     window: MainWindow = MainWindow(email = email)  # 메인 윈도우 생성
     window.show()
     print("애플리케이션 윈도우 표시됨. 이벤트 루프 시작.")
