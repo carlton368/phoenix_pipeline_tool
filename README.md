@@ -89,7 +89,7 @@ pip install -r requirements.txt
 ```
 
 ### HOW TO START
-1. Edit core/config.ini with your settings
+1. Edit core/config.ini with your settings:
 - Update Shotgun credentials
 - Configure Maya/Nuke executable locations
 
