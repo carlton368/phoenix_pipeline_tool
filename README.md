@@ -89,7 +89,11 @@ pip install -r requirements.txt
 ```
 
 ### HOW TO START
-1. Open your terminal and navigate to the directory:
+1. Edit core/config.ini with your settings
+- Update Shotgun credentials
+- Configure Maya/Nuke executable locations
+
+2. Open your terminal and navigate to the directory:
 ```bash
 cd phoenix_pipeline_tool
 ```
@@ -102,13 +106,14 @@ python phoenix_main.py
 ## Project Structure
 ```
 phoenix_pipeline_tool/
-├── core/               # config management & ShotGun api client 
-├── env/                # Environment configurations
 ├── Launcher/           # Login and Loader
 ├── Publisher/          # Publishing tools
 ├── Saver/              # Save management
+├── core/               # config management & ShotGun api client 
+│   └── config.ini      # Core configuration file (API keys, paths)
+├── env/                # Environment configurations
 ├── ui/                 # UI components
-└── phoenix_main.py   # Main Entry Point
+└── phoenix_main.py     # Main Entry Point
 ```
 
 ## Future Development
