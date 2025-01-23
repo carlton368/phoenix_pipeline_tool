@@ -96,20 +96,19 @@ cd phoenix_pipeline_tool
 
 3. Run the following command:
 ```bash
-python main.py 
+python phoenix_main.py 
 ```
 
 ## Project Structure
 ```
 phoenix_pipeline_tool/
-├── core/               # Core functionality
-├── phoenix_main/       # Main application logic
+├── core/               # config management & ShotGun api client 
+├── env/                # Environment configurations
+├── Launcher/           # Login and Loader
+├── Publisher/          # Publishing tools
+├── Saver/              # Save management
 ├── ui/                 # UI components
-├── Saver/             # Save management
-├── Publisher/         # Publishing tools
-├── Launcher/          # Application entry points
-├── env/              # Environment configurations
-└── lib/              # External libraries
+└── phoenix_main.py   # Main Entry Point
 ```
 
 ## Future Development
@@ -129,7 +128,7 @@ phoenix_pipeline_tool/
 
 | Name   | Profile        | GitHub Profile                                
 |--------|-------------|---------------------------------------------
-| Seyoung Kang   | Team Leader      | [@kangseyoung](https://github.com/kangseyoung)
+| Seyoung Kang   | Team Leader (3D Rigger)      | [@kangseyoung](https://github.com/kangseyoung)
 | Yumi Kang   | Film Major (VP Operator)      | [@yumai054](https://github.com/yumai054)
 | Gyeoul Kim   | Digital Media Major (3D Rigger)      |
 | Sunjin Yun   | Industrial Design Major      | [@gkdlfn1996](https://github.com/gkdlfn1996)
